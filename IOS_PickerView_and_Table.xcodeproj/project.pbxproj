@@ -14,6 +14,8 @@
 		9B5476212368E8C8000E6A86 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B54761F2368E8C8000E6A86 /* LaunchScreen.storyboard */; };
 		9B54762C2368E8C8000E6A86 /* IOS_PickerView_and_TableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B54762B2368E8C8000E6A86 /* IOS_PickerView_and_TableTests.swift */; };
 		9B5476372368E8C8000E6A86 /* IOS_PickerView_and_TableUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5476362368E8C8000E6A86 /* IOS_PickerView_and_TableUITests.swift */; };
+		9B5476452368FF5E000E6A86 /* SecondPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5476442368FF5E000E6A86 /* SecondPickerViewController.swift */; };
+		9B5476472369137E000E6A86 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5476462369137E000E6A86 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		9B5476322368E8C8000E6A86 /* IOS_PickerView_and_TableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS_PickerView_and_TableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B5476362368E8C8000E6A86 /* IOS_PickerView_and_TableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_PickerView_and_TableUITests.swift; sourceTree = "<group>"; };
 		9B5476382368E8C8000E6A86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5476442368FF5E000E6A86 /* SecondPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPickerViewController.swift; sourceTree = "<group>"; };
+		9B5476462369137E000E6A86 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				9B54761D2368E8C8000E6A86 /* Assets.xcassets */,
 				9B54761F2368E8C8000E6A86 /* LaunchScreen.storyboard */,
 				9B5476222368E8C8000E6A86 /* Info.plist */,
+				9B5476442368FF5E000E6A86 /* SecondPickerViewController.swift */,
+				9B5476462369137E000E6A86 /* TableViewController.swift */,
 			);
 			path = IOS_PickerView_and_Table;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				9B5476192368E8BB000E6A86 /* PickerViewController.swift in Sources */,
 				9B5476172368E8BB000E6A86 /* AppDelegate.swift in Sources */,
+				9B5476452368FF5E000E6A86 /* SecondPickerViewController.swift in Sources */,
+				9B5476472369137E000E6A86 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
